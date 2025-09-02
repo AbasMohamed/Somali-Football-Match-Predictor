@@ -1,0 +1,6 @@
+streamlit
+pandas
+scipy
+scikit-learn
+pillow
+pymongo
