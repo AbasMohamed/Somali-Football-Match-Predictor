@@ -1,0 +1,146 @@
+[
+    {
+        "home_team": "Batroolka FC",
+        "away_team": "Albeder",
+        "home_prob": 33.57142857142857,
+        "draw_prob": 7.142857142857145,
+        "away_prob": 59.285714285714285,
+        "predicted_outcome": "Albeder wins",
+        "timestamp": "2025-09-02 21:36:19"
+    },
+    {
+        "home_team": "Elman FC",
+        "away_team": "Dekedda SC",
+        "home_prob": 33.88235294117647,
+        "draw_prob": 43.529411764705884,
+        "away_prob": 22.58823529411765,
+        "predicted_outcome": "Draw",
+        "timestamp": "2025-09-02 21:36:34"
+    },
+    {
+        "timestamp": "2025-09-02 21:39:59",
+        "home_team": "Batroolka FC",
+        "away_team": "Elman FC",
+        "home_prob": 32.5,
+        "draw_prob": 9.2,
+        "away_prob": 58.3,
+        "predicted_outcome": "Elman FC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:40:25",
+        "home_team": "Dekedda SC",
+        "away_team": "Midnimo FC",
+        "home_prob": 56.7,
+        "draw_prob": 15.8,
+        "away_prob": 27.5,
+        "predicted_outcome": "Dekedda SC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:42:33",
+        "home_team": "Dekedda SC",
+        "away_team": "Albeder",
+        "home_prob": 40.0,
+        "draw_prob": 25.0,
+        "away_prob": 35.0,
+        "predicted_outcome": "Dekedda SC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:45:51",
+        "home_team": "Sahafi FC",
+        "away_team": "Jazeera SC",
+        "home_prob": 70.0,
+        "draw_prob": 6.0,
+        "away_prob": 24.0,
+        "predicted_outcome": "Sahafi FC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:46:39",
+        "home_team": "Rajo FC",
+        "away_team": "Waxool FC",
+        "home_prob": 75.0,
+        "draw_prob": 5.0,
+        "away_prob": 20.0,
+        "predicted_outcome": "Rajo FC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:51:45",
+        "home_team": "Ummah Hospital",
+        "away_team": "Raadsan FC",
+        "home_prob": 30.0,
+        "draw_prob": 6.2,
+        "away_prob": 63.7,
+        "predicted_outcome": "Raadsan FC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:52:31",
+        "home_team": "Jeenyo FC",
+        "away_team": "Albeder",
+        "home_prob": 31.7,
+        "draw_prob": 6.7,
+        "away_prob": 61.7,
+        "predicted_outcome": "Albeder wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:54:19",
+        "home_team": "Ummah Hospital",
+        "away_team": "Batroolka FC",
+        "home_prob": 33.0,
+        "draw_prob": 7.0,
+        "away_prob": 60.0,
+        "predicted_outcome": "Batroolka FC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:55:31",
+        "home_team": "Raadsan FC",
+        "away_team": "Bariga Dhexe",
+        "home_prob": 30.0,
+        "draw_prob": 5.0,
+        "away_prob": 65.0,
+        "predicted_outcome": "Bariga Dhexe wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:55:43",
+        "home_team": "Jamhuuriya FC",
+        "away_team": "Ummah Hospital",
+        "home_prob": 66.7,
+        "draw_prob": 6.7,
+        "away_prob": 26.7,
+        "predicted_outcome": "Jamhuuriya FC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:56:05",
+        "home_team": "Jeenyo FC",
+        "away_team": "Batroolka FC",
+        "home_prob": 63.3,
+        "draw_prob": 11.7,
+        "away_prob": 25.0,
+        "predicted_outcome": "Jeenyo FC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:56:19",
+        "home_team": "Waxool FC",
+        "away_team": "Dekedda SC",
+        "home_prob": 30.0,
+        "draw_prob": 8.3,
+        "away_prob": 61.7,
+        "predicted_outcome": "Dekedda SC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:56:37",
+        "home_team": "Gasko FC",
+        "away_team": "Gaadiidka FC",
+        "home_prob": 68.8,
+        "draw_prob": 6.2,
+        "away_prob": 25.0,
+        "predicted_outcome": "Gasko FC wins"
+    },
+    {
+        "timestamp": "2025-09-02 21:59:21",
+        "home_team": "Jazeera SC",
+        "away_team": "Dekedda SC",
+        "home_prob": 30.0,
+        "draw_prob": 5.0,
+        "away_prob": 65.0,
+        "predicted_outcome": "Dekedda SC wins"
+    }
+]
