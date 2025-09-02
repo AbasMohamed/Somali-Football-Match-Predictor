@@ -4,3 +4,4 @@ scipy
 scikit-learn
 pillow
 pymongo
+xgb_model
