@@ -768,7 +768,19 @@ if page == "🏠 Home":
 
             
 
-        save_prediction_to_history(home_team, away_team, home_prob, draw_prob, away_prob, predicted_outcome)
+        if not home_team or not away_team or home_team == away_team:
+            st.error("⚠️ Please select two  teams before predicting.")
+            st.stop()  # stop execution here
+        else:
+            # run prediction logic
+            save_prediction_to_history(
+                home_team,
+                away_team,
+                home_prob,
+                draw_prob,
+                away_prob,
+                predicted_outcome
+            )
 
 
 
